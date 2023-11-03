@@ -1,0 +1,97 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+      <mj-image src="image/logo.png" padding="0px" width="155px" text-align="left"> </mj-image>
+    </mj-section>
+    <mj-section padding="32px 0px 36px 0px">
+      <mj-column
+        ><mj-text padding="0px" line-height="34px" font-weight="700" font-size="26px" color="#004D3D" font-family="Arial">Оплачен заказ № 42207214-0080</mj-text>
+        <mj-text padding="10px 0px 0px 0px" line-height="20px" font-weight="400" font-size="14px" color="#8F8F8F" font-family="Arial">26.07.2023 18:13 МСК</mj-text></mj-column
+      >
+    </mj-section>
+    <mj-section background-color="#F8F7F5" padding="20px 16px " border-radius="12px">
+      <mj-column>
+        <mj-text color="#8F8F8F" font-size="14px" padding="0px 0px 0px 0px" font-weight="400" font-family="Arial">Покупатель</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">Василий К.</mj-text>
+
+        <mj-text color="#8F8F8F" font-size="14px" padding="20px 0px 0px 0px" font-weight="400" font-family="Arial">Стоимость заказа</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">2500 ₽</mj-text>
+
+        <mj-text color="#8F8F8F" font-size="14px" padding="20px 0px 0px 0px" font-weight="400" font-family="Arial">Вес посылки</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">5 кг</mj-text>
+
+        <mj-text color="#8F8F8F" font-size="14px" padding="20px 0px 0px 0px" font-weight="400" font-family="Arial">Доставка</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">Самовывоз</mj-text>
+
+        <mj-text color="#8F8F8F" font-size="14px" padding="20px 0px 0px 0px" font-weight="400" font-family="Arial">Адрес</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">Москва, Тверской район, ул. Романов переулок, д. 2/6</mj-text>
+
+        <mj-text color="#8F8F8F" font-size="14px" padding="20px 0px 0px 0px" font-weight="400" font-family="Arial">Время доставки</mj-text
+        ><mj-text color="#151B1A" font-size="16px" padding="6px 0px 0px 0px" font-weight="700" font-family="Arial">28 июля 2023</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="36px 0px 0px 0px">
+      <mj-column>
+        <mj-text font-family="Arial" padding="0px 0px 0px 0px" font-size="24px" color="#151B1A" font-weight="700">14 товаров</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section white-space="nowrap" padding="26px 0px 0px 0px" text-align="left">
+      <mj-column align="left" width="64px">
+        <mj-image src="image/product_foto.png" align="left" padding="0px" width="64" height="64"></mj-image>
+      </mj-column>
+      <mj-column padding="0px 0px 0px 12px">
+        <mj-text font-style="Arial" padding="0px 0px 0px 0px" font-size="14px" color="#151B1A" font-weight="400">Шоколад молочный Kinder Chocolate с молочной начинкой</mj-text>
+        <mj-text font-style="Arial" padding="4px 0px 0px 0px" font-size="14px" color="#8F8F8F" font-weight="400">1 шт. x 23,99 ₽</mj-text>
+      </mj-column>
+      <mj-column width="50px">
+        <mj-text font-style="Arial" padding="0px 0px 0px 0px" font-size="14px" color="#151B1A" font-weight="700">23,99 ₽</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px 0px 0px 0px" text-align="center">
+      <mj-column text-align="center">
+        <mj-text align="center" font-size="16px" font-weight="400" padding="0px" font-family="Arial" color="#151B1A">И ещё 4 товара</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="24px 0px 0px 0px" text-align="center">
+      <mj-column text-align="center">
+        <mj-text line-height="20px" align="left" font-size="16px" font-weight="400" padding="0px" font-family="Arial" color="#151B1A">Покупатель оплатил заказ и ждёт его доставку. Управлять статусом заказа можно в личном кабинете</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="26px 0px 36px 0px"
+      ><mj-column padding="0px 0px"><mj-button font-size="16px" background-color="#004D3D" border-radius="12px" href="#" width="100%" padding="0px 0px 0px 0px" font-family="Arial">Перейти к заказу </mj-button> </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#004D3D" padding="27px 16px" text-align="left">
+      <mj-column>
+        <mj-image padding="0px" align="left" src="image/logo-footer.png" width="160px"></mj-image>
+
+        <mj-section text-align="left" padding="0px">
+          <mj-column width="35px" padding="0px">
+            <mj-social padding="0px"> <mj-social-element padding="38px 0px 0px 0px" href="#" src="image/icon/instagram_logo.svg" icon-size="30px"> </mj-social-element> </mj-social
+          ></mj-column>
+
+          <mj-column width="35px" padding="0px">
+            <mj-social padding="0px">
+              <mj-social-element padding="38px 0px 0px 0px" href="#" src="image/icon/facebook_logo.svg" icon-size="30px"> </mj-social-element>
+            </mj-social>
+          </mj-column>
+
+          <mj-column width="35px" padding="0px"
+            ><mj-social padding="0px">
+              <mj-social-element padding="38px 0px 0px 0px" href="#" src="image/icon/twitter_logo.svg" icon-size="30px"> </mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-section>
+
+        <mj-text line-height="20px" align="left" font-size="18px" font-weight="400" padding="18px 0px 0px 0px" font-family="Arial" color="#FFFFFF">help@ufermera.ru</mj-text>
+
+        <mj-text line-height="14px" align="left" font-size="11px" font-weight="400" padding="18px 0px 0px 0px" font-family="Arial" color="#FFFFFF">Письмо создано автоматически, пожалуйста, не отвечайте на него</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
